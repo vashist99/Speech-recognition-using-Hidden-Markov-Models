@@ -1,0 +1,72 @@
+WARNING: no script file VoxForgeDict.txt.ded
+Missing Words
+-------------
+BACKTALK
+BARODIA
+BUMPOS
+COCKADOODLE
+COCKLETOP
+DRESSD
+FERRALTI
+FISHMARKETS
+FUNDEVOGEL
+HISTORYS
+KITTYS
+NINIP
+TROUTINA
+UNDERANGED
+VOLTAS
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+VoxForgeDict    268055       1353     268055       1353
+        dict      1353       1353       1353       1353
+
+1368 words required, 15 missing
+
+New Phone Usage Counts
+---------------------
+  1. ah    :   664
+  2. sp    :  1351
+  3. b     :   137
+  4. ih    :   439
+  5. l     :   375
+  6. t     :   484
+  7. iy    :   249
+  8. ey    :   130
+  9. aw    :    34
+ 10. ae    :   153
+ 11. s     :   451
+ 12. n     :   498
+ 13. k     :   294
+ 14. eh    :   242
+ 15. p     :   204
+ 16. sh    :    73
+ 17. m     :   246
+ 18. aa    :   111
+ 19. y     :    46
+ 20. uw    :    72
+ 21. ng    :   127
+ 22. z     :   179
+ 23. ch    :    34
+ 24. v     :    94
+ 25. d     :   321
+ 26. r     :   390
+ 27. er    :   211
+ 28. f     :   128
+ 29. ao    :   107
+ 30. g     :    75
+ 31. jh    :    56
+ 32. hh    :    78
+ 33. ay    :    95
+ 34. ow    :    87
+ 35. dh    :    32
+ 36. th    :    36
+ 37. uh    :    27
+ 38. w     :    98
+ 39. zh    :     5
+ 40. oy    :    14
+ 41. sil   :     2
+
+Dictionary Datasets/train/dict created

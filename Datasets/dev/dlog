@@ -1,0 +1,64 @@
+WARNING: no script file VoxForgeDict.txt.ded
+Missing Words
+-------------
+BEENIE
+BOZZLE
+DELIAS
+GINGLE
+MACKLEWAIN
+NOVATIANS
+SKINT
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+VoxForgeDict    266876        644     266876        644
+        dict       644        644        644        644
+
+651 words required, 7 missing
+
+New Phone Usage Counts
+---------------------
+  1. ah    :   257
+  2. sp    :   642
+  3. b     :    45
+  4. aw    :    19
+  5. t     :   204
+  6. ae    :    70
+  7. s     :   201
+  8. l     :   177
+  9. uw    :    38
+ 10. r     :   165
+ 11. k     :   127
+ 12. sh    :    25
+ 13. n     :   209
+ 14. d     :   171
+ 15. ih    :   195
+ 16. ng    :    56
+ 17. v     :    50
+ 18. jh    :    18
+ 19. z     :    78
+ 20. eh    :   102
+ 21. ch    :    24
+ 22. er    :    98
+ 23. ay    :    43
+ 24. aa    :    54
+ 25. ao    :    51
+ 26. m     :   102
+ 27. ow    :    51
+ 28. w     :    51
+ 29. ey    :    61
+ 30. iy    :   112
+ 31. dh    :    24
+ 32. th    :    16
+ 33. p     :    78
+ 34. g     :    38
+ 35. y     :    16
+ 36. f     :    58
+ 37. hh    :    40
+ 38. oy    :     4
+ 39. uh    :    10
+ 40. zh    :     1
+ 41. sil   :     2
+
+Dictionary Datasets/dev/dict created
